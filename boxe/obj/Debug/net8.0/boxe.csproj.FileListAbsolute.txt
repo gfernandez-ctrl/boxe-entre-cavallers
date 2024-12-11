@@ -1,0 +1,14 @@
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\boxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\boxe.AssemblyInfoInputs.cache
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\boxe.AssemblyInfo.cs
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\boxe.csproj.CoreCompileInputs.cache
+C:\Users\04fer\Programacio\boxe\boxe\bin\Debug\net8.0\boxe.exe
+C:\Users\04fer\Programacio\boxe\boxe\bin\Debug\net8.0\boxe.deps.json
+C:\Users\04fer\Programacio\boxe\boxe\bin\Debug\net8.0\boxe.runtimeconfig.json
+C:\Users\04fer\Programacio\boxe\boxe\bin\Debug\net8.0\boxe.dll
+C:\Users\04fer\Programacio\boxe\boxe\bin\Debug\net8.0\boxe.pdb
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\boxe.dll
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\refint\boxe.dll
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\boxe.pdb
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\boxe.genruntimeconfig.cache
+C:\Users\04fer\Programacio\boxe\boxe\obj\Debug\net8.0\ref\boxe.dll
